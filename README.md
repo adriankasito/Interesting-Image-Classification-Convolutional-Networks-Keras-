@@ -51,7 +51,7 @@ The dataset used for this project is located in the `./adrian/seg_train/seg_trai
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repository
+   cd Interesting-Image-Classification-Convolutional-Networks-Keras-
    ```
 
 3. Install the required dependencies:
